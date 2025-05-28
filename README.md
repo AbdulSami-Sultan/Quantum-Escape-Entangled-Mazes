@@ -1,3 +1,3 @@
 Quantum Escape: Entangled Mazes
 
-![alt text]([demoSS.png])
+![Alt text](https://example.com/path/to/image.png](https://github.com/AbdulSami-Sultan/Quantum-Escape-Entangled-Mazes/blob/main/demoSS.png))
